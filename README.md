@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **anvitha305/anvitha305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<marquee>hi! you've reached anvitha's github [enter at your own risk 💀]</marquee>
