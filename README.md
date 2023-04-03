@@ -17,5 +17,5 @@ Working on smaller projects when I'm not working on my research. My pinned repos
 
 [![My GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anvitha305&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anvitha305&langs_count=10&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anvitha305&langs_count=5&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
 
