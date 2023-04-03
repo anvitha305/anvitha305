@@ -13,3 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Currently working on smaller projects when I'm not working or researching. My pinned repositories reflect the nature of research I do. Primary interests are networking [especially SDN and LPWAN], embedded systems, and programming languages. 
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=anvitha305)](https://github.com/anuraghazra/github-readme-stats)
