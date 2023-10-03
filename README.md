@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🍅 Working on smaller projects when I'm not working on my research. My pinned repositories reflect the nature of research I do. Primary interests are sustainable computing, networking, embedded systems, and programming languages. 
+
+🍅 Visit my [very normal website!!!!]( https://anvitha305.github.io/)
