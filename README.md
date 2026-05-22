@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 -->
 🍅 Email at alramach[at]usc[dot]edu for inquiries related to me being in grad school
 
-🍅 Working on smaller projects when I'm not working on my research. My pinned repositories reflect the nature of research I do. Primary interests are sustainable computing, networking, embedded systems, and programming languages. 
-
+🍅 Working on smaller projects when I'm not working on my research. My pinned repositories reflect the nature of research I do. 
